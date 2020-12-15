@@ -11,6 +11,6 @@
 * :email: Pour obtenir plus d'informations, n'hésitez pas à me contacter : lucile.velut@etu.uca.fr  
 * :swimmer: Nageuse et secouriste pendant mon temps libre
 
-* :triangular_flag_on_post: A la recherche d'un stage pour la fin d'année afin de valider mon diplôme !   
+* :triangular_flag_on_post: __A la recherche d'un stage dans le développement web afin de valider mon diplôme ! __ 
 
 
