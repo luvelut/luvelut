@@ -6,6 +6,7 @@
 
 
 * :mortar_board: Etudiante en licence professionnelle __Développement Web__ au Puy-en-Velay
+* 🐒 En alternance dans l'entreprise Monkey Factory qui développe l'application MyBus 
 * :computer: Passionnée par le __web__ et la __création__  
 * :gem: HTML, JS, CSS, PHP, SYMFONY, BOOTSTRAP (mais aussi JAVA, C#, JAVAFX, C, PYTHON, XAML, FXML)
 * :books: Vous pouvez aussi me retrouver sur Linkedin : https://www.linkedin.com/in/lucile-velut-3915091b0/  
